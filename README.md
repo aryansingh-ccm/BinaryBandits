@@ -19,3 +19,6 @@ Documented requirements of Lyrical Loom containing: class diagram, use case diag
 
 #### LyricalLoomClassDiagram.vsdx
 Class diagram containing all classes, methods, and attributes of Lyrical Loom
+
+#### LyricalLoomUseCaseDiagram.vsdx
+Use case diagram depicting how actors will interact with the system
